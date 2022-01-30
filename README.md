@@ -1,15 +1,8 @@
-# Basic Sample Hardhat Project
+# Basic NFT Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates how to write NFT Smart Contract and deploy to the Ethereum Network
+Details of the Smart Contract are as follows:
 
-Try running some of the following tasks:
+Contract Address: 0x591e8A07903E7b0f38AD1C971C755211d564377D
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Etherscan : https://rinkeby.etherscan.io/address/0x591e8A07903E7b0f38AD1C971C755211d564377D
